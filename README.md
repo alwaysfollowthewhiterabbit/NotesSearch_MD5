@@ -1,7 +1,7 @@
 # NotesSearch_MD5
 MD5 Checksum for KeePass NotesSearch Plugin Version 1.6 (27.04.2024 / 04/27/2025) downloads 
 
-Download Plugin here: https://besch-it.com/keepass-notes-search-plugin-innerhalb-der-kommentare-suchen-search-within-notes-field/ )
+Download Plugin here: https://besch-it.com/keepass-notes-search-plugin-innerhalb-der-kommentare-suchen-search-within-notes-field/
 
 MD5 Online Checker: https://emn178.github.io/online-tools/md5_checksum.html 
 
