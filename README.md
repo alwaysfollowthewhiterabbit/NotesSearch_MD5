@@ -11,4 +11,5 @@ NotesSearchPlugin_Sourcecode.zip: feef3b1a9cf36a676b6e5f80fe3ab13f
 Download Plugin here: https://besch-it.com/keepass-notes-search-plugin-innerhalb-der-kommentare-suchen-search-within-notes-field/
 ---------------------------------------------------------------
 MD5 Online Checker: https://emn178.github.io/online-tools/md5_checksum.html 
+---------------------------------------------------------------
 
