@@ -1,11 +1,11 @@
 # NotesSearch_MD5
-MD5 Checksum for KeePass NotesSearch Plugin Version 1.6 (27.04.2024 / 04/27/2025) downloads 
+MD5 Checksum for KeePass NotesSearch Plugin Version 2.0 (30.03.2026 / 03/30/2026) downloads 
 
-NotesSearchPlugin.zip: c385daffb7b481390ad02422a0d9212d
+NotesSearchPlugin.zip: 35ff022fbac8ef595d37fe5dfc9633ea
 
-NotesSearchPlugin_encrypted.zip: c18d3bff05f7643fdaf1f9bf08c95a6b
+NotesSearchPlugin_encrypted.zip: 8d984885e6d12f880b32028ac249a096
 
-NotesSearchPlugin_Sourcecode.zip: feef3b1a9cf36a676b6e5f80fe3ab13f
+NotesSearchPlugin_Sourcecode.zip: 89aa403b904012782ad6bfcc12d36eed
 
 ---------------------------------------------------------------
 Download Plugin here: https://besch-it.com/keepass-notes-search-plugin-innerhalb-der-kommentare-suchen-search-within-notes-field/
