@@ -1,5 +1,5 @@
 # NotesSearch_MD5
-MD5 Checksum for KeePass NotesSearch Plugin Version 2.0 (30.03.2026 / 03/30/2026) downloads 
+MD5 Checksum for KeePass NotesSearch Plugin Version 2.1 (21.07.2026 / 07/21/2026) downloads 
 
 NotesSearchPlugin.zip: 08e766fe168404435bb075e9cf36cb7d
 
